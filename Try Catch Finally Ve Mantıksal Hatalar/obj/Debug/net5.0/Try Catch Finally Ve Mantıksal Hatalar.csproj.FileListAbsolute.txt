@@ -1,0 +1,16 @@
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Try Catch Finally Ve Mantıksal Hatalar\bin\Debug\net5.0\Try Catch Finally Ve Mantıksal Hatalar.exe
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Try Catch Finally Ve Mantıksal Hatalar\bin\Debug\net5.0\Try Catch Finally Ve Mantıksal Hatalar.deps.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Try Catch Finally Ve Mantıksal Hatalar\bin\Debug\net5.0\Try Catch Finally Ve Mantıksal Hatalar.runtimeconfig.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Try Catch Finally Ve Mantıksal Hatalar\bin\Debug\net5.0\Try Catch Finally Ve Mantıksal Hatalar.runtimeconfig.dev.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Try Catch Finally Ve Mantıksal Hatalar\bin\Debug\net5.0\Try Catch Finally Ve Mantıksal Hatalar.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Try Catch Finally Ve Mantıksal Hatalar\bin\Debug\net5.0\ref\Try Catch Finally Ve Mantıksal Hatalar.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Try Catch Finally Ve Mantıksal Hatalar\bin\Debug\net5.0\Try Catch Finally Ve Mantıksal Hatalar.pdb
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net5.0\Try Catch Finally Ve Mantıksal Hatalar.csproj.AssemblyReference.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net5.0\Try Catch Finally Ve Mantıksal Hatalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net5.0\Try Catch Finally Ve Mantıksal Hatalar.AssemblyInfoInputs.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net5.0\Try Catch Finally Ve Mantıksal Hatalar.AssemblyInfo.cs
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net5.0\Try Catch Finally Ve Mantıksal Hatalar.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net5.0\Try Catch Finally Ve Mantıksal Hatalar.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net5.0\ref\Try Catch Finally Ve Mantıksal Hatalar.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net5.0\Try Catch Finally Ve Mantıksal Hatalar.pdb
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Try Catch Finally Ve Mantıksal Hatalar\obj\Debug\net5.0\Try Catch Finally Ve Mantıksal Hatalar.genruntimeconfig.cache
