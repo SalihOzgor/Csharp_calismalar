@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Salih\\Documents\\Çalışmalar\\Csharp_calismalar\\Değişkenler\\Değişkenler.csproj",
-      "projectName": "Değişkenler",
-      "projectPath": "C:\\Users\\Salih\\Documents\\Çalışmalar\\Csharp_calismalar\\Değişkenler\\Değişkenler.csproj",
+      "projectUniqueName": "C:\\Users\\Salih\\Documents\\Çalışmalar\\Csharp_calismalar\\Operatörler\\Operatörler.csproj",
+      "projectName": "Operatörler",
+      "projectPath": "C:\\Users\\Salih\\Documents\\Çalışmalar\\Csharp_calismalar\\Operatörler\\Operatörler.csproj",
       "packagesPath": "C:\\Users\\Salih\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Salih\\Documents\\Çalışmalar\\Csharp_calismalar\\Değişkenler\\obj\\",
+      "outputPath": "C:\\Users\\Salih\\Documents\\Çalışmalar\\Csharp_calismalar\\Operatörler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Salih\\AppData\\Roaming\\NuGet\\NuGet.Config",
