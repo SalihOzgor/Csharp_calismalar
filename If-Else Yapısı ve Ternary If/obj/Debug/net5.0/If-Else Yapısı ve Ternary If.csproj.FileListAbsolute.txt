@@ -1,0 +1,16 @@
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\If-Else Yapısı ve Ternary If\bin\Debug\net5.0\If-Else Yapısı ve Ternary If.exe
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\If-Else Yapısı ve Ternary If\bin\Debug\net5.0\If-Else Yapısı ve Ternary If.deps.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\If-Else Yapısı ve Ternary If\bin\Debug\net5.0\If-Else Yapısı ve Ternary If.runtimeconfig.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\If-Else Yapısı ve Ternary If\bin\Debug\net5.0\If-Else Yapısı ve Ternary If.runtimeconfig.dev.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\If-Else Yapısı ve Ternary If\bin\Debug\net5.0\If-Else Yapısı ve Ternary If.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\If-Else Yapısı ve Ternary If\bin\Debug\net5.0\ref\If-Else Yapısı ve Ternary If.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\If-Else Yapısı ve Ternary If\bin\Debug\net5.0\If-Else Yapısı ve Ternary If.pdb
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\If-Else Yapısı ve Ternary If\obj\Debug\net5.0\If-Else Yapısı ve Ternary If.csproj.AssemblyReference.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\If-Else Yapısı ve Ternary If\obj\Debug\net5.0\If-Else Yapısı ve Ternary If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\If-Else Yapısı ve Ternary If\obj\Debug\net5.0\If-Else Yapısı ve Ternary If.AssemblyInfoInputs.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\If-Else Yapısı ve Ternary If\obj\Debug\net5.0\If-Else Yapısı ve Ternary If.AssemblyInfo.cs
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\If-Else Yapısı ve Ternary If\obj\Debug\net5.0\If-Else Yapısı ve Ternary If.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\If-Else Yapısı ve Ternary If\obj\Debug\net5.0\If-Else Yapısı ve Ternary If.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\If-Else Yapısı ve Ternary If\obj\Debug\net5.0\ref\If-Else Yapısı ve Ternary If.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\If-Else Yapısı ve Ternary If\obj\Debug\net5.0\If-Else Yapısı ve Ternary If.pdb
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\If-Else Yapısı ve Ternary If\obj\Debug\net5.0\If-Else Yapısı ve Ternary If.genruntimeconfig.cache
