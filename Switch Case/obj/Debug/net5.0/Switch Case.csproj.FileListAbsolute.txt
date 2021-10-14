@@ -1,0 +1,16 @@
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Switch Case\bin\Debug\net5.0\Switch Case.exe
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Switch Case\bin\Debug\net5.0\Switch Case.deps.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Switch Case\bin\Debug\net5.0\Switch Case.runtimeconfig.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Switch Case\bin\Debug\net5.0\Switch Case.runtimeconfig.dev.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Switch Case\bin\Debug\net5.0\Switch Case.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Switch Case\bin\Debug\net5.0\ref\Switch Case.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Switch Case\bin\Debug\net5.0\Switch Case.pdb
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Switch Case\obj\Debug\net5.0\Switch Case.csproj.AssemblyReference.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Switch Case\obj\Debug\net5.0\Switch Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Switch Case\obj\Debug\net5.0\Switch Case.AssemblyInfoInputs.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Switch Case\obj\Debug\net5.0\Switch Case.AssemblyInfo.cs
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Switch Case\obj\Debug\net5.0\Switch Case.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Switch Case\obj\Debug\net5.0\Switch Case.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Switch Case\obj\Debug\net5.0\ref\Switch Case.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Switch Case\obj\Debug\net5.0\Switch Case.pdb
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Switch Case\obj\Debug\net5.0\Switch Case.genruntimeconfig.cache
