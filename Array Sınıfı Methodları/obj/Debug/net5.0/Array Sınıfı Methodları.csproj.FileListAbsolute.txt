@@ -1,0 +1,16 @@
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Array Sınıfı Methodları\bin\Debug\net5.0\Array Sınıfı Methodları.exe
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Array Sınıfı Methodları\bin\Debug\net5.0\Array Sınıfı Methodları.deps.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Array Sınıfı Methodları\bin\Debug\net5.0\Array Sınıfı Methodları.runtimeconfig.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Array Sınıfı Methodları\bin\Debug\net5.0\Array Sınıfı Methodları.runtimeconfig.dev.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Array Sınıfı Methodları\bin\Debug\net5.0\Array Sınıfı Methodları.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Array Sınıfı Methodları\bin\Debug\net5.0\ref\Array Sınıfı Methodları.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Array Sınıfı Methodları\bin\Debug\net5.0\Array Sınıfı Methodları.pdb
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Array Sınıfı Methodları\obj\Debug\net5.0\Array Sınıfı Methodları.csproj.AssemblyReference.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Array Sınıfı Methodları\obj\Debug\net5.0\Array Sınıfı Methodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Array Sınıfı Methodları\obj\Debug\net5.0\Array Sınıfı Methodları.AssemblyInfoInputs.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Array Sınıfı Methodları\obj\Debug\net5.0\Array Sınıfı Methodları.AssemblyInfo.cs
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Array Sınıfı Methodları\obj\Debug\net5.0\Array Sınıfı Methodları.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Array Sınıfı Methodları\obj\Debug\net5.0\Array Sınıfı Methodları.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Array Sınıfı Methodları\obj\Debug\net5.0\ref\Array Sınıfı Methodları.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Array Sınıfı Methodları\obj\Debug\net5.0\Array Sınıfı Methodları.pdb
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Array Sınıfı Methodları\obj\Debug\net5.0\Array Sınıfı Methodları.genruntimeconfig.cache
