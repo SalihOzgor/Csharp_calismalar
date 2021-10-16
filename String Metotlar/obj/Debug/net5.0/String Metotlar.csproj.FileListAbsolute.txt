@@ -1,0 +1,16 @@
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\String Metotlar\bin\Debug\net5.0\String Metotlar.exe
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\String Metotlar\bin\Debug\net5.0\String Metotlar.deps.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\String Metotlar\bin\Debug\net5.0\String Metotlar.runtimeconfig.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\String Metotlar\bin\Debug\net5.0\String Metotlar.runtimeconfig.dev.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\String Metotlar\bin\Debug\net5.0\String Metotlar.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\String Metotlar\bin\Debug\net5.0\ref\String Metotlar.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\String Metotlar\bin\Debug\net5.0\String Metotlar.pdb
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\String Metotlar\obj\Debug\net5.0\String Metotlar.csproj.AssemblyReference.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\String Metotlar\obj\Debug\net5.0\String Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\String Metotlar\obj\Debug\net5.0\String Metotlar.AssemblyInfoInputs.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\String Metotlar\obj\Debug\net5.0\String Metotlar.AssemblyInfo.cs
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\String Metotlar\obj\Debug\net5.0\String Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\String Metotlar\obj\Debug\net5.0\String Metotlar.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\String Metotlar\obj\Debug\net5.0\ref\String Metotlar.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\String Metotlar\obj\Debug\net5.0\String Metotlar.pdb
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\String Metotlar\obj\Debug\net5.0\String Metotlar.genruntimeconfig.cache
