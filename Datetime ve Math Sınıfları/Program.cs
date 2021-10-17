@@ -42,7 +42,7 @@ namespace Datetime_ve_Math_Sınıfları
             Console.WriteLine(DateTime.Now.ToString("yy"));
             Console.WriteLine(DateTime.Now.ToString("yyyy"));
 
-
+            
 
             //Math
 
@@ -65,7 +65,8 @@ namespace Datetime_ve_Math_Sınıfları
             Console.WriteLine(Math.Exp(3));   //e üssü 3 verir
             Console.WriteLine(Math.Log10(10));//10 un 10 tabanındaki logaritmik karşılığı
             
-
+           
+           
         }
     }
 }
