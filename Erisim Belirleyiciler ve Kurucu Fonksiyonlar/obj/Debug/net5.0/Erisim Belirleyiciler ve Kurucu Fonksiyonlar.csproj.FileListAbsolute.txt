@@ -1,0 +1,16 @@
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Erisim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net5.0\Erisim Belirleyiciler ve Kurucu Fonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Erisim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net5.0\Erisim Belirleyiciler ve Kurucu Fonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Erisim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net5.0\Erisim Belirleyiciler ve Kurucu Fonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Erisim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net5.0\Erisim Belirleyiciler ve Kurucu Fonksiyonlar.AssemblyInfo.cs
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Erisim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net5.0\Erisim Belirleyiciler ve Kurucu Fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Erisim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net5.0\Erisim Belirleyiciler ve Kurucu Fonksiyonlar.exe
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Erisim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net5.0\Erisim Belirleyiciler ve Kurucu Fonksiyonlar.deps.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Erisim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net5.0\Erisim Belirleyiciler ve Kurucu Fonksiyonlar.runtimeconfig.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Erisim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net5.0\Erisim Belirleyiciler ve Kurucu Fonksiyonlar.runtimeconfig.dev.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Erisim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net5.0\Erisim Belirleyiciler ve Kurucu Fonksiyonlar.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Erisim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net5.0\ref\Erisim Belirleyiciler ve Kurucu Fonksiyonlar.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Erisim Belirleyiciler ve Kurucu Fonksiyonlar\bin\Debug\net5.0\Erisim Belirleyiciler ve Kurucu Fonksiyonlar.pdb
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Erisim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net5.0\Erisim Belirleyiciler ve Kurucu Fonksiyonlar.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Erisim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net5.0\ref\Erisim Belirleyiciler ve Kurucu Fonksiyonlar.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Erisim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net5.0\Erisim Belirleyiciler ve Kurucu Fonksiyonlar.pdb
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Erisim Belirleyiciler ve Kurucu Fonksiyonlar\obj\Debug\net5.0\Erisim Belirleyiciler ve Kurucu Fonksiyonlar.genruntimeconfig.cache

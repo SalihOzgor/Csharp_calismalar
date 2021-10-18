@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Erisim Belirleyiciler ve Kurucu Fonksiyonlar/1.0.0": {
+        "runtime": {
+          "Erisim Belirleyiciler ve Kurucu Fonksiyonlar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Erisim Belirleyiciler ve Kurucu Fonksiyonlar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
