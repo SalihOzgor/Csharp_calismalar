@@ -1,0 +1,16 @@
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Sınıf Nedir Instance_Field_Property\bin\Debug\net5.0\Sınıf Nedir Instance_Field_Property.exe
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Sınıf Nedir Instance_Field_Property\bin\Debug\net5.0\Sınıf Nedir Instance_Field_Property.deps.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Sınıf Nedir Instance_Field_Property\bin\Debug\net5.0\Sınıf Nedir Instance_Field_Property.runtimeconfig.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Sınıf Nedir Instance_Field_Property\bin\Debug\net5.0\Sınıf Nedir Instance_Field_Property.runtimeconfig.dev.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Sınıf Nedir Instance_Field_Property\bin\Debug\net5.0\Sınıf Nedir Instance_Field_Property.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Sınıf Nedir Instance_Field_Property\bin\Debug\net5.0\ref\Sınıf Nedir Instance_Field_Property.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Sınıf Nedir Instance_Field_Property\bin\Debug\net5.0\Sınıf Nedir Instance_Field_Property.pdb
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Sınıf Nedir Instance_Field_Property\obj\Debug\net5.0\Sınıf Nedir Instance_Field_Property.csproj.AssemblyReference.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Sınıf Nedir Instance_Field_Property\obj\Debug\net5.0\Sınıf Nedir Instance_Field_Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Sınıf Nedir Instance_Field_Property\obj\Debug\net5.0\Sınıf Nedir Instance_Field_Property.AssemblyInfoInputs.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Sınıf Nedir Instance_Field_Property\obj\Debug\net5.0\Sınıf Nedir Instance_Field_Property.AssemblyInfo.cs
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Sınıf Nedir Instance_Field_Property\obj\Debug\net5.0\Sınıf Nedir Instance_Field_Property.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Sınıf Nedir Instance_Field_Property\obj\Debug\net5.0\Sınıf Nedir Instance_Field_Property.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Sınıf Nedir Instance_Field_Property\obj\Debug\net5.0\ref\Sınıf Nedir Instance_Field_Property.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Sınıf Nedir Instance_Field_Property\obj\Debug\net5.0\Sınıf Nedir Instance_Field_Property.pdb
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Sınıf Nedir Instance_Field_Property\obj\Debug\net5.0\Sınıf Nedir Instance_Field_Property.genruntimeconfig.cache
