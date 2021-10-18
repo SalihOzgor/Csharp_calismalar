@@ -1,0 +1,16 @@
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Static Sınıf ve Uyeler\bin\Debug\net5.0\Static Sınıf ve Uyeler.exe
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Static Sınıf ve Uyeler\bin\Debug\net5.0\Static Sınıf ve Uyeler.deps.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Static Sınıf ve Uyeler\bin\Debug\net5.0\Static Sınıf ve Uyeler.runtimeconfig.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Static Sınıf ve Uyeler\bin\Debug\net5.0\Static Sınıf ve Uyeler.runtimeconfig.dev.json
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Static Sınıf ve Uyeler\bin\Debug\net5.0\Static Sınıf ve Uyeler.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Static Sınıf ve Uyeler\bin\Debug\net5.0\ref\Static Sınıf ve Uyeler.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Static Sınıf ve Uyeler\bin\Debug\net5.0\Static Sınıf ve Uyeler.pdb
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Static Sınıf ve Uyeler\obj\Debug\net5.0\Static Sınıf ve Uyeler.csproj.AssemblyReference.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Static Sınıf ve Uyeler\obj\Debug\net5.0\Static Sınıf ve Uyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Static Sınıf ve Uyeler\obj\Debug\net5.0\Static Sınıf ve Uyeler.AssemblyInfoInputs.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Static Sınıf ve Uyeler\obj\Debug\net5.0\Static Sınıf ve Uyeler.AssemblyInfo.cs
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Static Sınıf ve Uyeler\obj\Debug\net5.0\Static Sınıf ve Uyeler.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Static Sınıf ve Uyeler\obj\Debug\net5.0\Static Sınıf ve Uyeler.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Static Sınıf ve Uyeler\obj\Debug\net5.0\ref\Static Sınıf ve Uyeler.dll
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Static Sınıf ve Uyeler\obj\Debug\net5.0\Static Sınıf ve Uyeler.pdb
+C:\Users\Salih\Documents\Çalışmalar\Csharp_calismalar\Static Sınıf ve Uyeler\obj\Debug\net5.0\Static Sınıf ve Uyeler.genruntimeconfig.cache
